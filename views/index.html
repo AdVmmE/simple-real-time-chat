@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Chat Friend App</title>
+ 
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h2>Chat Friend</h2>
+        </div>
+        <div class="chat-messages" id="content-message"></div>
+        <form class="chat-input" id="message-form">
+            <input type="text" id="message-input" placeholder="Type a message..." required>
+            <button type="submit">Send</button>
+        </form>
+        <span>Build By Adam isdaouene</span>
+
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="./socket.js"></script>
+</body>
+</html>
