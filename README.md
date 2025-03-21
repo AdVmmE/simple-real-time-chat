@@ -93,10 +93,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ```
 
-### Notes
-- This is now a single `.md` file with all sections, including the "How to Use" part you requested, added as a new section with a Table of Contents link.
-- The content is unchanged from the previous version, just reorganized to include the extra section seamlessly.
-- You can copy this entire block into your `README.md` file on GitHub.
-
-Let me know if you need further tweaks or if you’d like me to incorporate additional details!
 
