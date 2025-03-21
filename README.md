@@ -9,6 +9,7 @@ A lightweight real-time chat application built with Node.js, Express, Socket.IO,
 - [Contributing](#contributing)
 - [License](#license)
 - [How to Use](#how-to-use)
+- [Images](#images)
 
 ## Introduction
 This project is a simple real-time chat system where users can connect via a web interface, send messages, and see updates instantly. It uses Socket.IO for real-time communication and MongoDB to persist messages until all users disconnect. The application is designed for simplicity and can serve as a foundation for more complex chat systems.
@@ -85,6 +86,18 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 3. Copy and paste the content above into the file.
 4. Commit the changes.
 
+## Images
+You can add images here to showcase the chat interface, example messages, or any other relevant visuals.
 
+```markdown
+![Chat Interface](./image.png)
 
+```
+
+### Notes
+- This is now a single `.md` file with all sections, including the "How to Use" part you requested, added as a new section with a Table of Contents link.
+- The content is unchanged from the previous version, just reorganized to include the extra section seamlessly.
+- You can copy this entire block into your `README.md` file on GitHub.
+
+Let me know if you need further tweaks or if you’d like me to incorporate additional details!
 
