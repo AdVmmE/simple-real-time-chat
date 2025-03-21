@@ -90,7 +90,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 You can add images here to showcase the chat interface, example messages, or any other relevant visuals.
 
 ```markdown
-![Chat Interface](./image.png)
+![Chat Interface](image.png)
 
 ```
 
